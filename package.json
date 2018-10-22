@@ -1,0 +1,22 @@
+{
+  "name": "graphqlquiz",
+  "version": "1.0.0",
+  "description": "Quiz for SOA4ID Lecture",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "TEC",
+    "SOA4ID",
+    "GraphQL"
+  ],
+  "author": "Juan Esteban Navarro Camacho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "basic_sports":[
+        {
+            "soaId": 1,
+            "title": "Baloncesto",
+            "category": "collective",
+            "description": "Deporte que se practica, en una cancha rectangular, entre dos equipos de cinco jugadores que tratan de introducir el balón en la canasta contraria, que se encuentra a una altura de 3,05 m, valiéndose solo de las manos.",
+            "icon": "icon1"
+        },
+        {
+            "soaId": 2,
+            "title": "Fútbol americano",
+            "category" :"collective",
+            "description": "El fútbol americano es el resultado de divergencias del rugby, principalmente por los cambios en las reglas instituidos por Walter Camp, quien es considerado el padre del fútbol americano.",
+            "icon": "icon1"
+        },
+        {
+            "soaId": 3,
+            "title": "Boxeo",
+            "category": "martial-art",
+            "description": "Es un deporte de combate en el que dos contrincantes luchan utilizando únicamente sus puños.",
+            "icon": "icon1"
+        },
+        {
+            "soaId": 4,
+            "title": "Karate",
+            "category" :"martial-art",
+            "description": "Basado en algunos estilos de las artes marciales china.",
+            "icon": "icon1"
+        }
+    ]
+}
